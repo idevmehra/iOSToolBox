@@ -5,4 +5,4 @@ A curated list of awesome iOS frameworks, libraries, tutorials, plugins Xcode, c
 This style guide is different from others you may see, because the focus is centered on readability, file and code organization in xcode.
 I strongly believe that without a proper coding standard and file organization development is not an easy task.
 Modification and suggestion are strongly welcome.
-* [Swift Coding Style](Swift-Coding-Guide/README.md)
+* [Swift Coding Style](Swift-Coding-Guide)
